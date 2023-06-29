@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div>
-    <code><img height="50" src="https://github.com/Andre-Victorio/Andre-Victorio/assets/76398173/26491c83-35d7-4d24-a751-0d44a1eb5a45" alt="Neovim" title="Neovim"/></code>
+##Editors
+<div align="center">
+    <code><img height="50" src="https://github.com/Andre-Victorio/Andre-Victorio/assets/76398173/2068211c-da18-4ad6-8177-6226415e8949" alt="Neovim" title="Neovim"/></code>
+    <code><img height="50" src="https://github.com/Andre-Victorio/Andre-Victorio/assets/76398173/b27cefb2-92fc-4c1b-8d5c-b05bd4a2b762" alt="VSCode" title="VSCode"/></code>
+    <code><img height="50" src="https://github.com/Andre-Victorio/Andre-Victorio/assets/76398173/b27cefb2-92fc-4c1b-8d5c-b05bd4a2b762" alt="Python" title="Python"/></code>
 </div>
