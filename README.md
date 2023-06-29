@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-    <code><img height="50" src="https://github.com/Andre-Victorio/Andre-Victorio/assets/76398173/26491c83-35d7-4d24-a751-0d44a1eb5a45" alt="Neovim" title="Neovim"/>/code>
+    <code><img height="50" src="https://github.com/Andre-Victorio/Andre-Victorio/assets/76398167/26491c83-35d7-4d24-a751-0d44a1eb5a45" alt="Neovim" title="Neovim"/></code>
 </div>
