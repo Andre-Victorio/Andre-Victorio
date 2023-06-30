@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <code><img height="50" src="https://godotengine.org/assets/press/icon_color.svg" alt="Godot" title="Godot"/></code>
 </div>
 
-## 欲しい学びます
+## これたちが学びます
 <div align="center">
     <code><img height="50" src="https://github.com/Andre-Victorio/Andre-Victorio/assets/76398173/a296b49c-c007-4158-b70a-396edd6e1c26" alt="NextJS" title="NextJS"/></code>
     <code><img height="50" src="https://github.com/Andre-Victorio/Andre-Victorio/assets/76398173/4bb576d5-16d4-4e06-9254-d5402c05326e" alt="Zig" title="Zig"/></code>
